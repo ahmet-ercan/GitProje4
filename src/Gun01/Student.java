@@ -11,5 +11,7 @@ public class Student {
 
         System.out.println("yeni merhaba");
 
+        System.out.println("son");
+
     }
 }
